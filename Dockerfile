@@ -3,3 +3,4 @@ FROM python:3
 WORKDIR /usr/src/app
 ## setting working directory to usr/src/app
 COPY WorkerPythonScript.py  ./
+## added comments 
