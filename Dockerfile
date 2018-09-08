@@ -6,4 +6,4 @@ COPY WorkerPythonScript.py  ./
 ## copying the worker file
 CMD [python WorkerPythonScript.PY]
 
-// RUNNING PYTTHON SCRIPT BY DEFAULT
+## RUNNING PYTTHON SCRIPT BY DEFAULT
